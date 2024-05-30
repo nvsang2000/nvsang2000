@@ -4,7 +4,6 @@
 ### 👨🏻‍💻 About Me
 
 A fullstack developer, open source is my hobby! 
-- blog: [https://buqiyuan.github.io](https://buqiyuan.github.io/)
 - email: nvsang2670@gmail.com
 
 <div style="display: flex;justify-content: space-between;">
