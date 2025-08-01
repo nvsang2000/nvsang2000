@@ -1,9 +1,9 @@
 <p></p>
-<img alt="👋" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm <a href="https://github.com/nvsang2000" target="_blank">nvsang2000</a></h2>
+<img alt="👋" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm <a href="https://github.com/nvsang2000" target="_blank">Văn Sang</a></h2>
 
 ### 👨🏻‍💻 About Me
 
-A fullstack developer, open source is my hobby! 
+I am a Devops programmer with many skills in building systems, microservices!
 - website: <a href="https://portfolio-yue.vercel.app/">Website me</a>
 
 <div style="display: flex;justify-content: space-between;">
